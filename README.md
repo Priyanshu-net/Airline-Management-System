@@ -17,8 +17,9 @@ The Airline Management System project automates the registration process of an a
 - **Database**: MySQL
 ## Installation
 **Clone the repository:**
-    ```bash 
-    git clone https://github.com/Priyanshu-net/Airline-Management-System.git
+    ```bash
+   git clone https://github.com/Priyanshu-net/Airline-Management-System.git
+   
 
 - Open the project in NetBeans.
 - Set up the MySQL database with the provided schema.
